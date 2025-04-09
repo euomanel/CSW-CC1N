@@ -1,10 +1,11 @@
+
 h1{
-    color:white;
-    background-color:greenyellow
+    background-color: orange;
+    color: rgb(255, 255, 255);
 }
 h2{
-    color:darkred;
+    color: red;
 }
 p{
-    color:royalblue;
+    color: blue;
 }
